@@ -49,7 +49,7 @@
             {
                 "label": "lorem-ipsum",
                 "url": "#",
-                "style": "icon",
+                "style": "button",
                 "icon_class": "vimeo",
                 "new_window": false,
                 "no_follow": false,
