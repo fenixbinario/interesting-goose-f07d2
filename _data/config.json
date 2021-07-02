@@ -41,7 +41,7 @@
         "social_links": []
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stack\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fresh&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.manusa.com\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fresh&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
     },
     "domain": "https://interesting-goose-f07d2.netlify.app"
 }
