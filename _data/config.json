@@ -54,15 +54,6 @@
                 "new_window": true
             },
             {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
-                "icon_class": "twitter",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            },
-            {
                 "label": "GitHub",
                 "url": "https://github.com/",
                 "style": "icon",
