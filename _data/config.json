@@ -38,7 +38,7 @@
             },
             {
                 "label": "CONFIGURACION",
-                "url": "/con",
+                "url": "/confi",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
