@@ -65,7 +65,7 @@
             },
             {
                 "label": "RSSI",
-                "url": "#",
+                "url": "/RSSI/",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
