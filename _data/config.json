@@ -58,6 +58,15 @@
                 "type": "action"
             },
             {
+                "label": "LOG",
+                "url": "/log",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "label": "About",
                 "url": "/about/",
                 "style": "link"
@@ -71,15 +80,6 @@
                 "label": "Contact",
                 "url": "/contact/",
                 "style": "link"
-            },
-            {
-                "label": "LOG",
-                "url": "/log",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ],
         "has_social": true,
